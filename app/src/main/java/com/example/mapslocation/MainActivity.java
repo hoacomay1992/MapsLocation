@@ -6,6 +6,7 @@ import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {
     private static final String TAG = "Mainactivity";
+    private String name;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
